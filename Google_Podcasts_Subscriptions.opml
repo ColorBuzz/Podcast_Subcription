@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml>
+  <head>
+    <title>Google Podcasts Subscriptions</title>
+  </head>
+  <body>
+    <outline text='feeds'>
+      <outline type='rss' text='Coffee Break: Señal y Ruido' xmlUrl='https://feeds.acast.com/public/shows/63910e8796d1480011f2eaaa'/>
+      <outline type='rss' text='Fase Bonus' xmlUrl='http://feeds.feedburner.com/ivoox/jVuj'/>
+      <outline type='rss' text='http://feeds.feedburner.com/CarneDeVideoclubSerieB' xmlUrl='http://feeds.feedburner.com/CarneDeVideoclubSerieB'/>
+      <outline type='rss' text='http://feeds.feedburner.com/Lode-archivosLigeros-' xmlUrl='http://feeds.feedburner.com/Lode-archivosLigeros-'/>
+      <outline type='rss' text='https://cienciaes.com/entrevistas.xml' xmlUrl='https://cienciaes.com/entrevistas.xml'/>
+      <outline type='rss' text='La Fábrica de la Ciencia  (LFDLC)' xmlUrl='https://www.ivoox.com/podcast-fabrica-ciencia_fg_f1100722_filtro_1.xml'/>
+      <outline type='rss' text='podcast.xml - Nadie Sabe Nada' xmlUrl='https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml'/>
+      <outline type='rss' text='Radio Skylab' xmlUrl='http://radioskylab.es/feed/'/>
+      <outline type='rss' text='Remake a los 80, cine y videoclub' xmlUrl='https://www.ivoox.com/podcast-remake-a-80_fg_f1248910_filtro_1.xml'/>
+    </outline>
+  </body>
+</opml>
