@@ -1,19 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml>
   <head>
-    <title>Google Podcasts Subscriptions</title>
+    <title>RastafaryYeah's Podcasts Subscriptions</title>
   </head>
   <body>
-    <outline text='feeds'>
-      <outline type='rss' text='Coffee Break: Señal y Ruido' xmlUrl='https://feeds.acast.com/public/shows/63910e8796d1480011f2eaaa'/>
-      <outline type='rss' text='Fase Bonus' xmlUrl='http://feeds.feedburner.com/ivoox/jVuj'/>
-      <outline type='rss' text='http://feeds.feedburner.com/CarneDeVideoclubSerieB' xmlUrl='http://feeds.feedburner.com/CarneDeVideoclubSerieB'/>
-      <outline type='rss' text='http://feeds.feedburner.com/Lode-archivosLigeros-' xmlUrl='http://feeds.feedburner.com/Lode-archivosLigeros-'/>
-      <outline type='rss' text='https://cienciaes.com/entrevistas.xml' xmlUrl='https://cienciaes.com/entrevistas.xml'/>
-      <outline type='rss' text='La Fábrica de la Ciencia  (LFDLC)' xmlUrl='https://www.ivoox.com/podcast-fabrica-ciencia_fg_f1100722_filtro_1.xml'/>
-      <outline type='rss' text='podcast.xml - Nadie Sabe Nada' xmlUrl='https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml'/>
-      <outline type='rss' text='Radio Skylab' xmlUrl='http://radioskylab.es/feed/'/>
-      <outline type='rss' text='Remake a los 80, cine y videoclub' xmlUrl='https://www.ivoox.com/podcast-remake-a-80_fg_f1248910_filtro_1.xml'/>
+    <outline text='Podcast'>
+
+      <outline type="rss" text="El programa de la fantasía y la ciencia-ficción. Cine, libros, cómics, series de televisión, manga-anime y videojuegos." title="La Orbita de Endor" xmlUrl="https://www.ivoox.com/feed_fg_f113302_filtro_1.xml"/>
+      <outline type="rss" text="Víctor Olid y Ángel Codón Ramos se embarcan en un podcast homenaje a la comedia como temática vehicular. Cómicos, actores, películas, obras de teatro, libros, cómics... 
+                    Todo aquellos que huela a comedia y humor, siempre bajo el ojo observador de los aristócratas del humor, aquellos que cuentan el chiste más desagradable y ofensivo de la historia... " 
+                title="Los Aritocratas" xmlUrl="https://www.ivoox.com/feed_fg_f1320674_filtro_1.xml"/>
+      <outline type="rss" text="TiempoDeCulto Podcast, también conocido como TDC Podcast, spin off de la desaparecida web de humor y cultura pop TiempoDeCulto.COM.
+                Chorradas, humor, cine, cultura pop y tonterías sin igual. Este es el sitio donde encontrarás todo eso, y mucho más (o mucho menos, según se mire). "
+                title="TDC:Tiempo de Culto" xmlUrl="https://www.ivoox.com/feed_fg_f1153358_filtro_1.xml"/>
+      <outline type="rss" text="Coffee Break: Señal y Ruido es la tertulia semanal en la que, medio en broma medio en serio, repasamos las últimas noticias de la actualidad científica. Separando la paja del trigo o, como nos gusta decirlo, la señal del ruido, nos leemos los papers para que usted no tenga que hacerlo. Sírvete un café y acompáñanos en nuestra tertulia"
+                              title="Coffee Break: Señal y Ruido" xmlUrl="https://www.ivoox.com/feed_fg_f1172891_filtro_1.xml"/>
+      <outline type="rss" text="rograma de divulgación científica dirigido y presentado por Jorge Onsulve. Los contenidos está relacionados con el mundo de la Ciencia en general. Charlie Duke, Pedro Duque, Carlos González, Jorge Pla, entre otros forman parte del elenco de invitados colaboradores de este programa.
+                Para más información: www.lafabricadelaciencia.com " title="La Fábrica de la Ciencia (LFDLC)" xmlUrl="https://www.ivoox.com/podcast-fabrica-ciencia_fg_f1100722_filtro_1.xml"/>
+      <outline type="rss" text="Andreu Buenafuente y Berto Romero se sientan frente a frente, micro a micro, e improvisan. ¿Qué puede salir mal? El humor de estos dos genios es oro para tus orejas. Ábrelas bien que, en el fondo, nadie sabe nada. En directo en Cadena Ser los sábados a las 12:00 y a cualquier hora si te suscribes. "
+                title="Nadie Sabe Nada" xmlUrl="https://fapi-top.prisasd.com/podcast/playser/nadie_sabe_nada/itunestfp/podcast.xml"/>
     </outline>
   </body>
 </opml>
