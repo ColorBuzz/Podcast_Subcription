@@ -4,7 +4,7 @@
     <title>RastafaryYeah's Podcasts Subscriptions</title>
   </head>
   <body>
-    <outline text='Podcast'>
+    <outline text='Ivoox'>
 
       <outline type="rss" text="El programa de la fantasía y la ciencia-ficción. Cine, libros, cómics, series de televisión, manga-anime y videojuegos." title="La Orbita de Endor" xmlUrl="https://www.ivoox.com/feed_fg_f113302_filtro_1.xml"/>
       <outline type="rss" text="Víctor Olid y Ángel Codón Ramos se embarcan en un podcast homenaje a la comedia como temática vehicular. Cómicos, actores, películas, obras de teatro, libros, cómics... 
