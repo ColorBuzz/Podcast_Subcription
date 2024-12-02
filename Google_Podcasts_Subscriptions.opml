@@ -16,7 +16,7 @@
 
 <outline text="Noticias" title="Noticias">
 <outline type="rss" text="Microsiervos" title="Microsiervos" xmlUrl="https://www.microsiervos.com/index.xml" htmlUrl=""/>
-<outline type="rss" text="Meneame" title="Meneame" xmlUrl="https://www.microsiervos.com/index.xml" htmlUrl=""/>
+<outline type="rss" text="Meneame" title="Meneame" xmlUrl="https://www.meneame.net/rss" htmlUrl=""/>
 </outline>
   </body>
 </opml>
