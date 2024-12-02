@@ -6,7 +6,7 @@
   <body>
     <outline text="Ivoox" title="Ivoox">
 
-      <outline type="rss" text="La Orbita de Endor" title="La Orbita de Endor" xmlUrl="" htmlUrl="https://www.ivoox.com/feed_fg_f113302_filtro_1.xml"/>
+      <outline type="rss" text="La Orbita de Endor" title="La Orbita de Endor" xmlUrl="https://www.ivoox.com/feed_fg_f113302_filtro_1.xml" htmlUrl=""/>
       <outline type="rss" text="Los Aritocratas" title="Los Aritocratas" xmlUrl="https://www.ivoox.com/feed_fg_f1320674_filtro_1.xml" htmlUrl=""/>
       <outline type="rss" text="TDC:Tiempo de Culto" title="TDC:Tiempo de Culto" xmlUrl="https://www.ivoox.com/feed_fg_f1153358_filtro_1.xml" htmlUrl=""/>
       <outline type="rss" text="Coffee Break: Señal y Ruido" title="Coffee Break: Señal y Ruido" xmlUrl="https://www.ivoox.com/feed_fg_f1172891_filtro_1.xml" htmlUrl=""/>
